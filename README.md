@@ -3,7 +3,7 @@
 
 This repository proposes a solution for the Don't Overfit! II Kaggle competition. <br>
 <br>
-The proposed solution involves a [Support-vector machine](https://en.wikipedia.org/wiki/Support-vector_machine) optimized using a Genetic Algorithm <br>
+The proposed solution involves a [Support-vector machine](https://en.wikipedia.org/wiki/Support-vector_machine) with Linear Kernel<br>
 
 
 ```python
